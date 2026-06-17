@@ -4,14 +4,14 @@ title: ""
 
 :::: {.columns}
 
-::: {.column width="30%"}
+::: {.column width="38%"}
 ![](profile.jpg){.rounded style="width:100%; border-radius: 50%;"}
 :::
 
 ::: {.column width="5%"}
 :::
 
-::: {.column width="65%"}
+::: {.column width="57%"}
 ## Clara Brügge
 
 Welcome! I am a PhD candidate at the Chair for International Political Economy and Environmental Politics at ETH Zürich, where I work under the supervision of Thomas Bernauer.
