@@ -12,16 +12,14 @@ title: ""
 :::
 
 ::: {.column width="65%"}
-## Christoph Bruegge
+## Clara Brügge
 
-PhD Researcher
-[Your Institution]
-[Your Department]
+PhD Researcher in Environmental Politics
+ETH Zürich
 
-I am a PhD researcher working on [brief description of your research]. My work focuses on [key themes].
+I study climate policy, political economy, and public opinion using survey-experimental methods. My research examines how people perceive and respond to the costs and trade-offs of decarbonization.
 
-[{{< fa envelope >}} c.bruegge\@icloud.com](mailto:c.bruegge@icloud.com)
-[{{< fa brands github >}} clbruegge](https://github.com/clbruegge)
+[cbrugge@ethz.ch](mailto:cbrugge@ethz.ch) · [GitHub](https://github.com/clbruegge)
 
 :::
 

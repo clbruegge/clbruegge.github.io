@@ -4,21 +4,57 @@ title: "Research"
 
 ## Working Papers
 
-**Paper Title** (with Co-Author, Year)
-Brief abstract or description of the paper.
-[[PDF]](#) [[Slides]](#)
+**The environmental costs of technology-based decarbonization and their impact on climate policy support.**
+Draft available upon request.
+
+<details>
+<summary>Abstract</summary>
+
+*Abstract coming soon.*
+
+</details>
 
 ---
 
-## Work in Progress
+**Barriers, pathways, and alternatives to green extractivism in Europe: Experimental insights from Spain.**
+With Thomas Bernauer. Draft available upon request.
 
-**Project Title**
-Brief description.
+<details>
+<summary>Abstract</summary>
+
+*Abstract coming soon.*
+
+</details>
+
+---
+
+**What do average people perceive as extreme weather?**
+With Patrick Kraft and Franziska Quoss. Draft available upon request.
+
+<details>
+<summary>Abstract</summary>
+
+*Abstract coming soon.*
+
+</details>
+
+---
+
+**Opportunity or constraint for viable climate policy? Support for green protectionism amid trade-offs between energy sovereignty and climate ambition.**
+With Tanja Schweinberger and Thomas Bernauer. Draft available upon request.
+
+<details>
+<summary>Abstract</summary>
+
+*Abstract coming soon.*
+
+</details>
 
 ---
 
 ## Research Interests
 
-- Interest 1
-- Interest 2
-- Interest 3
+- Climate policy
+- Political economy
+- Public opinion
+- Survey-experimental methods

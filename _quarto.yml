@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Christoph Bruegge"
+  title: "Clara Brügge"
   navbar:
     left:
       - href: index.qmd
@@ -13,11 +13,13 @@ website:
         text: Publications
       - href: cv.qmd
         text: CV
+      - href: teaching.qmd
+        text: Teaching
     right:
       - icon: github
         href: https://github.com/clbruegge
       - icon: envelope
-        href: mailto:c.bruegge@icloud.com
+        href: mailto:cbrugge@ethz.ch
 
 format:
   html:

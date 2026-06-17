@@ -8,27 +8,49 @@ title: "CV"
 
 ## Education
 
-**PhD in [Field]** (Expected [Year])
-[University], [Country]
+**Ph.D. in Environmental Politics** (2022–Present)
+ETH Zürich · Supervisor: Thomas Bernauer
 
-**MSc in [Field]** ([Year])
-[University], [Country]
+**M.A. in Political Science** (2020–2021)
+University of Konstanz
+
+**M.Sc. in Development Studies** (2019–2020)
+London School of Economics and Political Science
+
+**B.A. in Political Science** (2015–2019)
+University of Konstanz
 
 ---
 
 ## Positions
 
-**[Position]** ([Year–Present])
-[Institution]
+**Project Manager**, Swiss Environmental Panel, ETH Zürich (April 2022–Present)
+
+**Carlo Schmid Fellow**, Natural Resources for Development Unit, OECD, Paris (Sep 2021–Feb 2022)
 
 ---
 
-## Awards & Grants
+## Scholarships & Grants
 
-- Award name, Year
+- Full Study Scholarship, German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes), 2015–2020
+- Carlo Schmid Fellowship, DAAD, 2021–2022
 
 ---
 
 ## Teaching
 
-- Course name, [Institution], [Year]
+**ETH Zürich**, Department of Humanities, Social and Political Sciences
+
+- Co-Instructor, *Introduction to Political Science* (Autumn Semesters 2023 & 2024)
+- Co-Instructor, *Methods I: Research Design* (Autumn Semester 2022)
+- Co-Instructor, *Methods II: Quantitative and Qualitative Methods for the Social Sciences* (Spring Semester 2023)
+
+---
+
+## Skills
+
+**Methods:** Survey design, experimental design, quasi-experimental methods
+
+**Software:** R, Markdown, Stata, LaTeX, Git
+
+**Languages:** German (fluent), English (fluent), French (fluent), Catalan (basic)

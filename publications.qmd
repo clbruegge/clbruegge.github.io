@@ -4,14 +4,11 @@ title: "Publications"
 
 ## Journal Articles
 
-**Article Title** (Year)
-*Journal Name*, Volume(Issue), Pages.
-[[DOI]](#) [[PDF]](#)
+**Brügge, Clara et al.** (2024). Circular products resonate well with diverse consumers: Evidence from a choice experiment in Switzerland. *Journal of Cleaner Production*, 479, 143968.
 
----
+<details>
+<summary>Abstract</summary>
 
-## Conference Papers
+*Abstract coming soon.*
 
-**Paper Title** (Year)
-*Conference Name*.
-[[PDF]](#)
+</details>
