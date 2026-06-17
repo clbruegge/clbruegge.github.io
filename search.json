@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "The environmental costs of technology-based decarbonization and their impact on climate policy support. Draft available upon request.\n\n\nAbstract\n\nAbstract coming soon.\n\n\nBarriers, pathways, and alternatives to green extractivism in Europe: Experimental insights from Spain. With Thomas Bernauer. Draft available upon request.\n\n\nAbstract\n\nAbstract coming soon.\n\n\nWhat do average people perceive as extreme weather? With Patrick Kraft and Franziska Quoss. Draft available upon request.\n\n\nAbstract\n\nAbstract coming soon.\n\n\nOpportunity or constraint for viable climate policy? Support for green protectionism amid trade-offs between energy sovereignty and climate ambition. With Tanja Schweinberger and Thomas Bernauer. Draft available upon request.\n\n\nAbstract\n\nAbstract coming soon."
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "",
+    "text": "The environmental costs of technology-based decarbonization and their impact on climate policy support. Draft available upon request.\n\n\nAbstract\n\nAbstract coming soon.\n\n\nBarriers, pathways, and alternatives to green extractivism in Europe: Experimental insights from Spain. With Thomas Bernauer. Draft available upon request.\n\n\nAbstract\n\nAbstract coming soon.\n\n\nWhat do average people perceive as extreme weather? With Patrick Kraft and Franziska Quoss. Draft available upon request.\n\n\nAbstract\n\nAbstract coming soon.\n\n\nOpportunity or constraint for viable climate policy? Support for green protectionism amid trade-offs between energy sovereignty and climate ambition. With Tanja Schweinberger and Thomas Bernauer. Draft available upon request.\n\n\nAbstract\n\nAbstract coming soon."
+  },
+  {
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "Research",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nClimate policy\nPolitical economy\nPublic opinion\nSurvey-experimental methods"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Brügge, Clara et al. (2024). Circular products resonate well with diverse consumers: Evidence from a choice experiment in Switzerland. Journal of Cleaner Production, 479, 143968.\n\n\nAbstract\n\nAbstract coming soon."
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "",
+    "text": "Brügge, Clara et al. (2024). Circular products resonate well with diverse consumers: Evidence from a choice experiment in Switzerland. Journal of Cleaner Production, 479, 143968.\n\n\nAbstract\n\nAbstract coming soon."
+  },
+  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "CV",
@@ -11,90 +46,48 @@
     "href": "cv.html#education",
     "title": "CV",
     "section": "Education",
-    "text": "Education\nPhD in [Field] (Expected [Year]) [University], [Country]\nMSc in [Field] ([Year]) [University], [Country]"
+    "text": "Education\nPh.D. in Environmental Politics (2022–Present) ETH Zürich · Supervisor: Thomas Bernauer\nM.A. in Political Science (2020–2021) University of Konstanz\nM.Sc. in Development Studies (2019–2020) London School of Economics and Political Science\nB.A. in Political Science (2015–2019) University of Konstanz"
   },
   {
     "objectID": "cv.html#positions",
     "href": "cv.html#positions",
     "title": "CV",
     "section": "Positions",
-    "text": "Positions\n[Position] ([Year–Present]) [Institution]"
+    "text": "Positions\nProject Manager, Swiss Environmental Panel, ETH Zürich (April 2022–Present)\nCarlo Schmid Fellow, Natural Resources for Development Unit, OECD, Paris (Sep 2021–Feb 2022)"
   },
   {
-    "objectID": "cv.html#awards-grants",
-    "href": "cv.html#awards-grants",
+    "objectID": "cv.html#scholarships-grants",
+    "href": "cv.html#scholarships-grants",
     "title": "CV",
-    "section": "Awards & Grants",
-    "text": "Awards & Grants\n\nAward name, Year"
+    "section": "Scholarships & Grants",
+    "text": "Scholarships & Grants\n\nFull Study Scholarship, German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes), 2015–2020\nCarlo Schmid Fellowship, DAAD, 2021–2022"
   },
   {
     "objectID": "cv.html#teaching",
     "href": "cv.html#teaching",
     "title": "CV",
     "section": "Teaching",
-    "text": "Teaching\n\nCourse name, [Institution], [Year]"
+    "text": "Teaching\nETH Zürich, Department of Humanities, Social and Political Sciences\n\nCo-Instructor, Introduction to Political Science (Autumn Semesters 2023 & 2024)\nCo-Instructor, Methods I: Research Design (Autumn Semester 2022)\nCo-Instructor, Methods II: Quantitative and Qualitative Methods for the Social Sciences (Spring Semester 2023)"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "CV",
+    "section": "Skills",
+    "text": "Skills\nMethods: Survey design, experimental design, quasi-experimental methods\nSoftware: R, Markdown, Stata, LaTeX, Git\nLanguages: German (fluent), English (fluent), French (fluent), Catalan (basic)"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Christoph Bruegge",
+    "title": "Clara Brügge",
     "section": "",
-    "text": "PhD Researcher [Your Institution] [Your Department]\nI am a PhD researcher working on [brief description of your research]. My work focuses on [key themes].\n{{&lt; fa envelope &gt;}} c.bruegge@icloud.com {{&lt; fa brands github &gt;}} clbruegge"
+    "text": "PhD Researcher in Environmental Politics ETH Zürich\nI study climate policy, political economy, and public opinion using survey-experimental methods. My research examines how people perceive and respond to the costs and trade-offs of decarbonization.\ncbrugge@ethz.ch · GitHub"
   },
   {
-    "objectID": "index.html#christoph-bruegge",
-    "href": "index.html#christoph-bruegge",
-    "title": "Christoph Bruegge",
+    "objectID": "index.html#clara-brügge",
+    "href": "index.html#clara-brügge",
+    "title": "Clara Brügge",
     "section": "",
-    "text": "PhD Researcher [Your Institution] [Your Department]\nI am a PhD researcher working on [brief description of your research]. My work focuses on [key themes].\n{{&lt; fa envelope &gt;}} c.bruegge@icloud.com {{&lt; fa brands github &gt;}} clbruegge"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "Paper Title (with Co-Author, Year) Brief abstract or description of the paper. [PDF] [Slides]"
-  },
-  {
-    "objectID": "research.html#working-papers",
-    "href": "research.html#working-papers",
-    "title": "Research",
-    "section": "",
-    "text": "Paper Title (with Co-Author, Year) Brief abstract or description of the paper. [PDF] [Slides]"
-  },
-  {
-    "objectID": "research.html#work-in-progress",
-    "href": "research.html#work-in-progress",
-    "title": "Research",
-    "section": "Work in Progress",
-    "text": "Work in Progress\nProject Title Brief description."
-  },
-  {
-    "objectID": "research.html#research-interests",
-    "href": "research.html#research-interests",
-    "title": "Research",
-    "section": "Research Interests",
-    "text": "Research Interests\n\nInterest 1\nInterest 2\nInterest 3"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Article Title (Year) Journal Name, Volume(Issue), Pages. [DOI] [PDF]"
-  },
-  {
-    "objectID": "publications.html#journal-articles",
-    "href": "publications.html#journal-articles",
-    "title": "Publications",
-    "section": "",
-    "text": "Article Title (Year) Journal Name, Volume(Issue), Pages. [DOI] [PDF]"
-  },
-  {
-    "objectID": "publications.html#conference-papers",
-    "href": "publications.html#conference-papers",
-    "title": "Publications",
-    "section": "Conference Papers",
-    "text": "Conference Papers\nPaper Title (Year) Conference Name. [PDF]"
+    "text": "PhD Researcher in Environmental Politics ETH Zürich\nI study climate policy, political economy, and public opinion using survey-experimental methods. My research examines how people perceive and respond to the costs and trade-offs of decarbonization.\ncbrugge@ethz.ch · GitHub"
   }
 ]
