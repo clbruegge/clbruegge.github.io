@@ -3,6 +3,8 @@ project:
 
 website:
   title: "Clara Brügge"
+  description: "Personal website of Clara Brügge, PhD researcher in Environmental Politics at ETH Zürich."
+  open-graph: true
   navbar:
     left:
       - href: index.qmd
