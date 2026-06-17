@@ -1,0 +1,28 @@
+---
+title: ""
+---
+
+:::: {.columns}
+
+::: {.column width="30%"}
+![](profile.jpg){.rounded style="width:100%; border-radius: 50%;"}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="65%"}
+## Christoph Bruegge
+
+PhD Researcher
+[Your Institution]
+[Your Department]
+
+I am a PhD researcher working on [brief description of your research]. My work focuses on [key themes].
+
+[{{< fa envelope >}} c.bruegge\@icloud.com](mailto:c.bruegge@icloud.com)
+[{{< fa brands github >}} clbruegge](https://github.com/clbruegge)
+
+:::
+
+::::

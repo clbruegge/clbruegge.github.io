@@ -1,0 +1,34 @@
+---
+title: "CV"
+---
+
+[Download CV (PDF)](cv.pdf){.btn .btn-primary}
+
+---
+
+## Education
+
+**PhD in [Field]** (Expected [Year])
+[University], [Country]
+
+**MSc in [Field]** ([Year])
+[University], [Country]
+
+---
+
+## Positions
+
+**[Position]** ([Year–Present])
+[Institution]
+
+---
+
+## Awards & Grants
+
+- Award name, Year
+
+---
+
+## Teaching
+
+- Course name, [Institution], [Year]

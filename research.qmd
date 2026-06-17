@@ -1,0 +1,24 @@
+---
+title: "Research"
+---
+
+## Working Papers
+
+**Paper Title** (with Co-Author, Year)
+Brief abstract or description of the paper.
+[[PDF]](#) [[Slides]](#)
+
+---
+
+## Work in Progress
+
+**Project Title**
+Brief description.
+
+---
+
+## Research Interests
+
+- Interest 1
+- Interest 2
+- Interest 3

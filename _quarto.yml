@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Christoph Bruegge"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: github
+        href: https://github.com/clbruegge
+      - icon: envelope
+        href: mailto:c.bruegge@icloud.com
+
+format:
+  html:
+    theme:
+      light: flatly
+    css: styles.css
+    toc: false

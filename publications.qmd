@@ -1,0 +1,17 @@
+---
+title: "Publications"
+---
+
+## Journal Articles
+
+**Article Title** (Year)
+*Journal Name*, Volume(Issue), Pages.
+[[DOI]](#) [[PDF]](#)
+
+---
+
+## Conference Papers
+
+**Paper Title** (Year)
+*Conference Name*.
+[[PDF]](#)
