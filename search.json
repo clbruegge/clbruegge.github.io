@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download CV (PDF)"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\nPhD in [Field] (Expected [Year]) [University], [Country]\nMSc in [Field] ([Year]) [University], [Country]"
+  },
+  {
+    "objectID": "cv.html#positions",
+    "href": "cv.html#positions",
+    "title": "CV",
+    "section": "Positions",
+    "text": "Positions\n[Position] ([Year–Present]) [Institution]"
+  },
+  {
+    "objectID": "cv.html#awards-grants",
+    "href": "cv.html#awards-grants",
+    "title": "CV",
+    "section": "Awards & Grants",
+    "text": "Awards & Grants\n\nAward name, Year"
+  },
+  {
+    "objectID": "cv.html#teaching",
+    "href": "cv.html#teaching",
+    "title": "CV",
+    "section": "Teaching",
+    "text": "Teaching\n\nCourse name, [Institution], [Year]"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Christoph Bruegge",
+    "section": "",
+    "text": "PhD Researcher [Your Institution] [Your Department]\nI am a PhD researcher working on [brief description of your research]. My work focuses on [key themes].\n{{&lt; fa envelope &gt;}} c.bruegge@icloud.com {{&lt; fa brands github &gt;}} clbruegge"
+  },
+  {
+    "objectID": "index.html#christoph-bruegge",
+    "href": "index.html#christoph-bruegge",
+    "title": "Christoph Bruegge",
+    "section": "",
+    "text": "PhD Researcher [Your Institution] [Your Department]\nI am a PhD researcher working on [brief description of your research]. My work focuses on [key themes].\n{{&lt; fa envelope &gt;}} c.bruegge@icloud.com {{&lt; fa brands github &gt;}} clbruegge"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Paper Title (with Co-Author, Year) Brief abstract or description of the paper. [PDF] [Slides]"
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "",
+    "text": "Paper Title (with Co-Author, Year) Brief abstract or description of the paper. [PDF] [Slides]"
+  },
+  {
+    "objectID": "research.html#work-in-progress",
+    "href": "research.html#work-in-progress",
+    "title": "Research",
+    "section": "Work in Progress",
+    "text": "Work in Progress\nProject Title Brief description."
+  },
+  {
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "Research",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nInterest 1\nInterest 2\nInterest 3"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Article Title (Year) Journal Name, Volume(Issue), Pages. [DOI] [PDF]"
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "",
+    "text": "Article Title (Year) Journal Name, Volume(Issue), Pages. [DOI] [PDF]"
+  },
+  {
+    "objectID": "publications.html#conference-papers",
+    "href": "publications.html#conference-papers",
+    "title": "Publications",
+    "section": "Conference Papers",
+    "text": "Conference Papers\nPaper Title (Year) Conference Name. [PDF]"
+  }
+]
