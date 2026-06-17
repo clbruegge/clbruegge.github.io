@@ -5,6 +5,8 @@ website:
   title: "Clara Brügge"
   description: "Personal website of Clara Brügge, PhD researcher in Environmental Politics at ETH Zürich."
   open-graph: true
+  head: |
+    <meta name="google-site-verification" content="9ey0wzhWp5DeeCTPAbMis8slgyJrIRPa8toLAKArgnY" />
   navbar:
     left:
       - href: index.qmd
