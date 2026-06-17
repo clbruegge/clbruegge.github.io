@@ -7,6 +7,8 @@ title: "Research"
 **The environmental costs of technology-based decarbonization and their impact on climate policy support.**
 Draft available upon request.
 
+{{< video Clara_EPG.mp4 >}}
+
 <details>
 <summary>Abstract</summary>
 
