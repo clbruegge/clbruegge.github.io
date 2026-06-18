@@ -14,7 +14,7 @@ Climate change mitigation involves transitioning to low-carbon technologies manu
 
 </details>
 
-*This paper was selected for short video presentation at the Environmental Politics and Governance Conference (EPG), 2025.*
+*Selected for presentation in short video format at EPG, 2025.*
 
 <div style="width: 480px;">
 {{< video Clara_EPG.mp4 >}}
