@@ -12,8 +12,6 @@ title: ""
 :::
 
 ::: {.column width="57%"}
-## Clara Brügge
-
 Welcome! I am a PhD candidate at the Chair for International Political Economy and Environmental Politics at ETH Zürich, where I work under the supervision of Thomas Bernauer. In spring 2026, I was a visiting PhD student at Universitat Pompeu Fabra in Barcelona.
 
 My research focuses on the challenges of technology-based climate change mitigation: how citizens perceive and respond to its costs and trade-offs, and what this implies for the political feasibility of ambitious climate policy. Methodologically, I specialize in quantitative approaches, especially survey experiments.
