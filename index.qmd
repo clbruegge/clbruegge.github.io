@@ -18,8 +18,6 @@ My research focuses on the challenges of technology-based climate change mitigat
 
 In parallel, I serve as Project Manager of the Swiss Environmental Panel, a biannual longitudinal survey on environmental attitudes and policy preferences run in collaboration with the Federal Office for the Environment. Prior to my doctoral studies, I was a Carlo Schmid Fellow at the OECD, worked as a consultant for the UN Environment Programme, and interned at the German Permanent Mission to the UN.
 
-[cbrugge@ethz.ch](mailto:cbrugge@ethz.ch) · [GitHub](https://github.com/clbruegge)
-
 :::
 
 ::::
