@@ -1,5 +1,7 @@
 ---
 title: ""
+pagetitle: "Clara Brügge – PhD Candidate in Environmental Politics, ETH Zürich"
+description: "Clara Brügge is a PhD candidate in International Political Economy and Environmental Politics at ETH Zürich. Research on public opinion, survey experiments and the political feasibility of climate policy."
 ---
 
 :::: {.columns}
